@@ -16,3 +16,5 @@ https://www.buenosaires.gob.ar/form/formulario-de-registro-api-transporte
 
 * **Para ver el taller nuevamente**
 En este [link](https://www.youtube.com/watch?time_continue=326&v=F9enHwvJkZQ&feature=emb_logo) puedes encontrar el video con la resolución del taller.
+
+<img src="https://github.com/karbartolome/workshop_api_transporte_mapas/blob/master/mapa.png"></img>
