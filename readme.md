@@ -13,5 +13,5 @@ Una vez finalizada la carga del formulario, en unos minutos va recibir un correo
 
 Para ver la documentación de la [API](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc)
 
-**Para ver el taller nuevament...e**
+* **Para ver el taller nuevamente**
 En este [link](https://www.youtube.com/watch?time_continue=326&v=F9enHwvJkZQ&feature=emb_logo) puedes encontrar el video con la resolución del taller.
