@@ -6,12 +6,13 @@
 Realizamos una actividad online para enseñar a utilizar Google Colab con Python para resolver un problema divertido que es: ¿Dónde está mi monopatín?
 
 * **API DE TRANSPORTE**
-Para realizar esta actividad es necesario contar con las credenciales de la API de transporte del Gobierno de la ciudad, las mismas se pueden obtener las credenciales se debe ingresar a este link:
+
+  * Para realizar esta actividad es necesario contar con las credenciales de la API de transporte del Gobierno de la ciudad, las mismas se pueden obtener las credenciales se debe ingresar a este link:
 https://www.buenosaires.gob.ar/form/formulario-de-registro-api-transporte
 
-Una vez finalizada la carga del formulario, en unos minutos va recibir un correo con sus credenciales (controle si las mismas no llegan a su correo SPAM).
+  * Una vez finalizada la carga del formulario, en unos minutos va recibir un correo con sus credenciales (controle si las mismas no llegan a su correo SPAM).
 
-Para ver la documentación de la [API](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc)
+  * Para ver la documentación de la [API](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc)
 
 * **Para ver el taller nuevamente**
 En este [link](https://www.youtube.com/watch?time_continue=326&v=F9enHwvJkZQ&feature=emb_logo) puedes encontrar el video con la resolución del taller.
