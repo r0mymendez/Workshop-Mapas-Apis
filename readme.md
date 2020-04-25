@@ -11,3 +11,4 @@ https://www.buenosaires.gob.ar/form/formulario-de-registro-api-transporte
 
 Una vez finalizada la carga del formulario, en unos minutos va recibir un correo con sus credenciales (controle si las mismas no llegan a su correo SPAM).
 
+Para ver la documentación de la API: https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc
