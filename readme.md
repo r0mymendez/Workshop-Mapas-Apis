@@ -3,7 +3,7 @@
 
 **Women Techmakers** es el programa global de Google que promueve un espacio de visibilidad, comunidad y recursos para fomentar la diversidad en tecnología.
 
-Realizamos una actividad online con [Kari Bartolome](https://github.com/karbartolome/) y [Aidin Rodriguez](https://github.com/AidinR) para enseñar a utilizar Google Colab con Python para resolver un problema divertido que es: ¿Dónde está mi monopatín?
+Realizamos una actividad online con [Kari Bartolome](https://github.com/karbartolome/) y [Aidin Rodriguez](https://github.com/AidinRodriguez) para enseñar a utilizar Google Colab con Python para resolver un problema divertido que es: ¿Dónde está mi monopatín?
 
 * **API DE TRANSPORTE**
 
