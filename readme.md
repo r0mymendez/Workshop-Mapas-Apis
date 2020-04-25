@@ -1,6 +1,5 @@
 ## ¿Dónde está mi monopatín? Encontralo con Python 🐍
-##### GDG Buenos Aires: Women Techmakers Buenos Aires**
-
+##### GDG Buenos Aires: Women Techmakers Buenos Aires
 
 **Women Techmakers** es el programa global de Google que promueve un espacio de visibilidad, comunidad y recursos para fomentar la diversidad en tecnología.
 
